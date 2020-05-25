@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  text-align: center;
+}
+
+.container{
+  position: relative;
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
+  padding: 0 80px;
+}
+
+.content{
+  position: relative;
+  margin-top: 40px;
+  margin: auto;
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.btn, input{
+  display: inline-block;
+  margin-left: 15px;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.result{
+  margin-top: 10px;
+  margin-left: 15px;
+  font-size: 1.5em;
+}
+h2 {
+	background-color: #85BD29;
+}
